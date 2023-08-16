@@ -1,4 +1,5 @@
 # Software-Test-Automation-And-QA
+
 # How can I ensure that my code, program, or software is functional and secure?
 First, I will have to read and understand the requirements of my program. I would then tailor my tests to make sure that each of those requirements are satisfied in my program. Then, I would test for any security vulnerabilities such as SQL injection or improper access control etc..
 
